@@ -30,7 +30,11 @@ public class ContaTerminal {
 
         }
 
-        System.out.println("Olá "+ nome +", obrigado por criar uma conta em nosso banco, sua agência é " + agencia + ", conta " + numeroConta + " e seu saldo R$" + String.format("%.2f", saldo) + " já está disponível para saque!");
+        System.out.println("Olá "+ nome +", obrigado por criar uma conta em nosso banco. Segue abaixo as informações de sua conta!");
+        System.out.println("AGÊNCIA: "+agencia);
+        System.out.println("NÚMERO DA CONTA: "+ numeroConta);
+        System.out.println("SALDO: R$"+ String.format("%.2f", saldo));
+        
 
 
         input.close();
