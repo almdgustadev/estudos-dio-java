@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BancoDigital-DIO-POO/BancoDigital-DIO-POO.iml" filepath="$PROJECT_DIR$/BancoDigital-DIO-POO/BancoDigital-DIO-POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections-DIO/Collections-DIO.iml" filepath="$PROJECT_DIR$/Collections-DIO/Collections-DIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" filepath="$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dio-Iphone/Dio-Iphone.iml" filepath="$PROJECT_DIR$/Dio-Iphone/Dio-Iphone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamApi/StreamApi.iml" filepath="$PROJECT_DIR$/StreamApi/StreamApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/estudos-dio-java.iml" filepath="$PROJECT_DIR$/.idea/estudos-dio-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variaveis-tipo/variaveis-tipo.iml" filepath="$PROJECT_DIR$/variaveis-tipo/variaveis-tipo.iml" />
+    </modules>
+  </component>
+</project>
